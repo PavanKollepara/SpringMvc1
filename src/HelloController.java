@@ -11,6 +11,7 @@ public class HelloController implements Controller {
 	public ModelAndView handleRequest(HttpServletRequest arg0, HttpServletResponse arg1) throws Exception {
 		// TODO Auto-generated method stub
 sysout("Hello");
+sysout("GoodMorning");
 		return null;
 	}
 
