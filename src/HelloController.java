@@ -10,6 +10,7 @@ public class HelloController implements Controller {
 	@Override
 	public ModelAndView handleRequest(HttpServletRequest arg0, HttpServletResponse arg1) throws Exception {
 		// TODO Auto-generated method stub
+sysout("Hello");
 		return null;
 	}
 
